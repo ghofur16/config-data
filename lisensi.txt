@@ -1,0 +1,10 @@
+#LISENSI
+# Baris pertama "#LISENSI" WAJIB ada, jangan dihapus.
+# Format: hash|tanggal-berlaku (YYYY-MM-DD)
+# Baris yang diawali # adalah catatan dan diabaikan EA.
+# Buat hash dengan tools/buat_hash.html
+#
+# Untuk mematikan member: hapus barisnya, atau ubah tanggalnya ke tanggal yang sudah lewat.
+# Contoh di bawah dibuat dengan kode rahasia "CONTOH-RAHASIA-123" (ganti dengan milik Anda):
+69e5947511ea5531959f3f8938c550165605815ca6509b9a86cc7419525f3adc|2026-11-30
+28f4c2436b070dffb76ebe85c5f16aedd7a8ee4f3f86358a20928f9ca0f23e57|2026-12-15
